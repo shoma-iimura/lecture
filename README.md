@@ -1,1 +1,2 @@
 # lecture
+'Hello world.'
